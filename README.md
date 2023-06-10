@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [Frontend Mentor](#)
-- GitHub Repo URL: [GitHub](#)
-- Live Site URL: [Live Site](#)
+- Frontend Mentor Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-card-component-E-JPQl72Tc)
+- GitHub Repo URL: [GitHub](https://github.com/Gabriel-H502/product-preview-card)
+- Live Site URL: [Live Site](https://gabriel-h502.github.io/product-preview-card/)
 
 ## My process
 

@@ -30,9 +30,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução Frontend Mentor URL: [Frontend Mentor](#)
-- GitHub Repo URL: [GitHub](#)
-- Live Site URL: [Live Site](#)
+- Solução Frontend Mentor URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-card-component-E-JPQl72Tc)
+- GitHub Repo URL: [GitHub](https://github.com/Gabriel-H502/product-preview-card)
+- Live Site URL: [Live Site](https://gabriel-h502.github.io/product-preview-card/)
 
 ## Meu progresso
 
