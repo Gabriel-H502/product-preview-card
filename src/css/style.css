@@ -32,6 +32,13 @@ body {
     .perfume-image {
         height: 100%;
     }
+
+    .perfume-info{
+        width: 550px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
 }
 
 header {
@@ -41,14 +48,15 @@ header {
     color: #6c7289;
     text-transform: uppercase;
     letter-spacing: 5px;
-    margin-bottom: 10px;
 }
+
 .perfume-info {
     padding: 1.5em;
 }
 
 .perfume-name {
     font-family: 'Fraunces', serif;
+    margin: 10px 0;
     font-size: 1.9rem;
     color: #1c232b;
 }
@@ -60,8 +68,11 @@ header {
 }
 
 .perfume-description {
-    margin: 15px 0;
     line-height: 1.5;
+}
+
+.price {
+    margin: 20px 0;
 }
 
 .price-discount {
@@ -73,12 +84,11 @@ header {
 .price-original {
     text-decoration: line-through;
     vertical-align: super;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 .cart-button {
     width: 100%;
-    margin-top: 1em;
     height: 3.5em;
     background-color: #3D8168;
     color: #fff;
